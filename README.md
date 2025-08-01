@@ -1,16 +1,20 @@
-## ola 👋
+# Olá! Eu sou Mariana 👋
+
+🎓 Estudante de **Design Digital** na UFC  
+🎨 Apaixonada por design, tecnologia e interfaces que melhoram a experiência das pessoas  
+💻 Explorando o mundo do desenvolvimento web, UI/UX e criação de conteúdo visual  
+🚀 Atualmente aprendendo mais sobre **JavaScript** e **Typescript**
 
 
+## 💡 Interesses
+- UI/UX Design  
+- Animações interativas  
+- Ilustração digital e design gráfico  
 
-**mariana-dd/mariana-dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Como me encontrar
+[![LinkedIn](https://www.linkedin.com/in/marianasoares11)
 
-Here are some ideas to get you started:
+ ---
+ 
+⭐ Obrigada por visitar meu perfil!
 
--
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact:
