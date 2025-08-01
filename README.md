@@ -11,8 +11,8 @@
 - Animações interativas  
 - Ilustração digital e design gráfico  
 
-### 📫 Como me encontrar
-[![LinkedIn](https://www.linkedin.com/in/marianasoares11)
+### 📫 Como me encontrar 
+[![LinkedIn](https://img.shields.io/badge/-Mariana%20Soares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianasoares11)
 
  ---
  
